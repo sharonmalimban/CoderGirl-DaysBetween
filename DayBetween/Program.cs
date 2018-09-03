@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DayBetween
+namespace DaysBetween
 {
     public static class Program
     {

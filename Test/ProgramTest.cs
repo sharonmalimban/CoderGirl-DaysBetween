@@ -1,4 +1,4 @@
-using DayBetween;
+using DaysBetween;
 using System;
 using Xunit;
 
