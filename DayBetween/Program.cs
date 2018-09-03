@@ -2,11 +2,15 @@
 
 namespace DayBetween
 {
-    class Program
+    public static class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            // TODO:  Get two dates from the user.
+
+            Console.ReadLine();
         }
+
+        // TODO: Create that has a method that counts the number of days between two different dates.
     }
 }
